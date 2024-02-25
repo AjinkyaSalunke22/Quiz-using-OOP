@@ -5,7 +5,7 @@ This is a simple quiz application built using Object-Oriented Programming (OOP) 
 
 ## Demo:
 
-https://github.com/AjinkyaSalunke22/Quiz-using-OOP/assets/114003751/6cf26d27-efc6-4e7a-bc23-8c17cda61980
+[https://github.com/AjinkyaSalunke22/Quiz-using-OOP/assets/114003751/6cf26d27-efc6-4e7a-bc23-8c17cda61980](https://github.com/AjinkyaSalunke22/Quiz-using-OOP/assets/114003751/6e335bc1-553c-4d56-b708-ced70b6e2acb)
 
 
 ## Features
